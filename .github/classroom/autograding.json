@@ -79,8 +79,8 @@
       "comparison": "included",
       "timeout": 10,
       "points": 2.5
-    }
-	{
+    },
+	  {
       "name": "TP03c",
       "setup": "javac TP03.java",
       "run": "java TP03",
@@ -89,8 +89,8 @@
       "comparison": "included",
       "timeout": 10,
       "points": 2.5
-    }
-	{
+    },
+	 {
       "name": "TP03d",
       "setup": "javac TP03.java",
       "run": "java TP03",
